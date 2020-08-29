@@ -1,1 +1,4 @@
-# head_neck_carcicoma
+# mIF vs mIHC - HNSCC
+
+With advancement of immunotherapies, there has been a paradigm shift in the standard of care for cancer treatment and in the focus of cancer research leveraging the immune system in the tumor immune microenvironment. Therefore, accurate characterization of the tumor microenvironment in each disease site is extremely important. We compared multiplex immunofluorescence assay (mIF) using multispectral microscopy and multiplex immunohistochemistry assay (mIHC). Here we report the comparison of these two assays regarding data acquisition, image analyses, and concordance in marker intensities and characterization of the microenvironment.  This is the first direct comparison of mIF and mIHC using the identical slides. It provides a standardized dataset to demonstrate the equivalence of the two methods and a source that can be used to calibrate other methods.  Images were taken at 20x magnification.
+Source: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226184
